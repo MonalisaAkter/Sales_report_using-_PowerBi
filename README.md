@@ -32,4 +32,4 @@ Looking forward to connecting with you!
 
 ---
 
-*This README was generated based on my GitHub profile information.*
+ 
